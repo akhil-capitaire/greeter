@@ -1,6 +1,6 @@
 name: greeter
 description: Lightweight Dart package offering a Greeter utility to create friendly, customizable greetings in apps, tests, and demos.
-version: 1.0.4
+version: 1.0.5
 publish_to: https://pub.dev
 homepage: https://github.com/akhil-capitaire/greeter
 repository: https://github.com/akhil-capitaire/greeter.git
